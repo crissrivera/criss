@@ -1,0 +1,6 @@
+co\edu\eam\disenosoft\universidad\logica\bos\BOCurso.class
+co\edu\eam\disenosoft\universidad\logica\bos\BOEstudiante.class
+co\edu\eam\disenosoft\universidad\logica\bos\BODocente.class
+co\edu\eam\disenosoft\universidad\logica\bos\BOSesionCurso.class
+co\edu\eam\disenosoft\universidad\logica\Excepcion\ExcepcionNegocio.class
+co\edu\eam\disenosoft\universidad\logica\bos\BOAsignatura.class
